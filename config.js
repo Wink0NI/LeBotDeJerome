@@ -1,5 +1,5 @@
 module.exports = {
-    token : "MTA4NjMwMDg0NTk0NTEzMTEwMQ.GD9pm1.JIToXtPV2biSI6DYNDoPsyqFlY7GZTYSw0-TE8",
+    token : "-TE8",
     apiKey: "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",
 
     app: {
