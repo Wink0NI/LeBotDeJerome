@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "title": "Getting Started with Node.js",
+      "content": "This is an introductory guide to Node.js.",
+      "author": "John Doe"
+    },
+    {
+      "id": 2,
+      "title": "Introduction to Express.js",
+      "content": "Learn the basics of Express.js framework.",
+      "author": "Jane Smith"
+    }
+]
+  
